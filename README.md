@@ -1,2 +1,2 @@
-# cbs_bibliyometrik
+# CBS Bibliyometrik
 Coğrafi Bilgi Sistemleri Bibliyometrik Analizi
