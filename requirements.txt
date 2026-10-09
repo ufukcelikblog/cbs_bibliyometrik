@@ -1,5 +1,4 @@
 logging
-warnings
 bertopic==0.17.4
 matplotlib==3.11.1
 nltk==3.10.3
