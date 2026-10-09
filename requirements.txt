@@ -1,5 +1,4 @@
 logging
-re
 unicodedata
 warnings
 bertopic==0.17.4
